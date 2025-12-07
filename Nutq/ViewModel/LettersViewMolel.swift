@@ -1,4 +1,4 @@
-//viewModel
+//LettersViewModel
 import SwiftUI
 import Combine
 
