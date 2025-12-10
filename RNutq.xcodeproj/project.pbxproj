@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B56533512EE9755400F43137 /* Nutq.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = Nutq.xctestplan; sourceTree = "<group>"; };
 		B5BB25392EE31735007B24FA /* RNutq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNutq.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5BB25462EE31736007B24FA /* RNutqTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNutqTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5BB25502EE31736007B24FA /* RNutqUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNutqUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +89,7 @@
 		B5BB25302EE31735007B24FA = {
 			isa = PBXGroup;
 			children = (
+				B56533512EE9755400F43137 /* Nutq.xctestplan */,
 				B5BB253B2EE31735007B24FA /* Nutq */,
 				B5BB25492EE31736007B24FA /* NutqTests */,
 				B5BB25532EE31736007B24FA /* NutqUITests */,

@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "88042A85-5039-478D-BE37-CF603DAA9F84",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RNutq.xcodeproj",
+      "identifier" : "B5BB25382EE31735007B24FA",
+      "name" : "RNutq"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RNutq.xcodeproj",
+        "identifier" : "B5BB25452EE31736007B24FA",
+        "name" : "RNutqTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RNutq.xcodeproj",
+        "identifier" : "B5BB254F2EE31736007B24FA",
+        "name" : "RNutqUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
