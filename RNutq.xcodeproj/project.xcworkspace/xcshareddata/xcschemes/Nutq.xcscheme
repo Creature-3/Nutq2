@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B5BB25382EE31735007B24FA"
-               BuildableName = "Nutq.app"
-               BlueprintName = "Nutq"
+               BuildableName = "RNutq.app"
+               BlueprintName = "RNutq"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -36,8 +36,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B5BB25452EE31736007B24FA"
-               BuildableName = "NutqTests.xctest"
-               BlueprintName = "NutqTests"
+               BuildableName = "RNutqTests.xctest"
+               BlueprintName = "RNutqTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -47,8 +47,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B5BB254F2EE31736007B24FA"
-               BuildableName = "NutqUITests.xctest"
-               BlueprintName = "NutqUITests"
+               BuildableName = "RNutqUITests.xctest"
+               BlueprintName = "RNutqUITests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -69,8 +69,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B5BB25382EE31735007B24FA"
-            BuildableName = "Nutq.app"
-            BlueprintName = "Nutq"
+            BuildableName = "RNutq.app"
+            BlueprintName = "RNutq"
             ReferencedContainer = "container:">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -86,8 +86,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B5BB25382EE31735007B24FA"
-            BuildableName = "Nutq.app"
-            BlueprintName = "Nutq"
+            BuildableName = "RNutq.app"
+            BlueprintName = "RNutq"
             ReferencedContainer = "container:">
          </BuildableReference>
       </BuildableProductRunnable>

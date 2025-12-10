@@ -24,18 +24,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B5BB25392EE31735007B24FA /* Nutq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nutq.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B5BB25462EE31736007B24FA /* NutqTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NutqTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B5BB25502EE31736007B24FA /* NutqUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NutqUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5BB25392EE31735007B24FA /* RNutq.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNutq.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5BB25462EE31736007B24FA /* RNutqTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNutqTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5BB25502EE31736007B24FA /* RNutqUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNutqUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B565327D2EE5669800F43137 /* Exceptions for "Nutq" folder in "Nutq" target */ = {
+		B565328C2EE5F99700F43137 /* Exceptions for "Nutq" folder in "RNutq" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = B5BB25382EE31735007B24FA /* Nutq */;
+			target = B5BB25382EE31735007B24FA /* RNutq */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -43,7 +43,7 @@
 		B5BB253B2EE31735007B24FA /* Nutq */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B565327D2EE5669800F43137 /* Exceptions for "Nutq" folder in "Nutq" target */,
+				B565328C2EE5F99700F43137 /* Exceptions for "Nutq" folder in "RNutq" target */,
 			);
 			path = Nutq;
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 		B5BB253A2EE31735007B24FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5BB25392EE31735007B24FA /* Nutq.app */,
-				B5BB25462EE31736007B24FA /* NutqTests.xctest */,
-				B5BB25502EE31736007B24FA /* NutqUITests.xctest */,
+				B5BB25392EE31735007B24FA /* RNutq.app */,
+				B5BB25462EE31736007B24FA /* RNutqTests.xctest */,
+				B5BB25502EE31736007B24FA /* RNutqUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5BB25382EE31735007B24FA /* Nutq */ = {
+		B5BB25382EE31735007B24FA /* RNutq */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5BB255A2EE31736007B24FA /* Build configuration list for PBXNativeTarget "Nutq" */;
+			buildConfigurationList = B5BB255A2EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutq" */;
 			buildPhases = (
 				B5BB25352EE31735007B24FA /* Sources */,
 				B5BB25362EE31735007B24FA /* Frameworks */,
@@ -123,16 +123,16 @@
 			fileSystemSynchronizedGroups = (
 				B5BB253B2EE31735007B24FA /* Nutq */,
 			);
-			name = Nutq;
+			name = RNutq;
 			packageProductDependencies = (
 			);
 			productName = Nutq;
-			productReference = B5BB25392EE31735007B24FA /* Nutq.app */;
+			productReference = B5BB25392EE31735007B24FA /* RNutq.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B5BB25452EE31736007B24FA /* NutqTests */ = {
+		B5BB25452EE31736007B24FA /* RNutqTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5BB255D2EE31736007B24FA /* Build configuration list for PBXNativeTarget "NutqTests" */;
+			buildConfigurationList = B5BB255D2EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutqTests" */;
 			buildPhases = (
 				B5BB25422EE31736007B24FA /* Sources */,
 				B5BB25432EE31736007B24FA /* Frameworks */,
@@ -146,16 +146,16 @@
 			fileSystemSynchronizedGroups = (
 				B5BB25492EE31736007B24FA /* NutqTests */,
 			);
-			name = NutqTests;
+			name = RNutqTests;
 			packageProductDependencies = (
 			);
 			productName = NutqTests;
-			productReference = B5BB25462EE31736007B24FA /* NutqTests.xctest */;
+			productReference = B5BB25462EE31736007B24FA /* RNutqTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		B5BB254F2EE31736007B24FA /* NutqUITests */ = {
+		B5BB254F2EE31736007B24FA /* RNutqUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5BB25602EE31736007B24FA /* Build configuration list for PBXNativeTarget "NutqUITests" */;
+			buildConfigurationList = B5BB25602EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutqUITests" */;
 			buildPhases = (
 				B5BB254C2EE31736007B24FA /* Sources */,
 				B5BB254D2EE31736007B24FA /* Frameworks */,
@@ -169,11 +169,11 @@
 			fileSystemSynchronizedGroups = (
 				B5BB25532EE31736007B24FA /* NutqUITests */,
 			);
-			name = NutqUITests;
+			name = RNutqUITests;
 			packageProductDependencies = (
 			);
 			productName = NutqUITests;
-			productReference = B5BB25502EE31736007B24FA /* NutqUITests.xctest */;
+			productReference = B5BB25502EE31736007B24FA /* RNutqUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -199,7 +199,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B5BB25342EE31735007B24FA /* Build configuration list for PBXProject "Nutq" */;
+			buildConfigurationList = B5BB25342EE31735007B24FA /* Build configuration list for PBXProject "RNutq" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -213,9 +213,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5BB25382EE31735007B24FA /* Nutq */,
-				B5BB25452EE31736007B24FA /* NutqTests */,
-				B5BB254F2EE31736007B24FA /* NutqUITests */,
+				B5BB25382EE31735007B24FA /* RNutq */,
+				B5BB25452EE31736007B24FA /* RNutqTests */,
+				B5BB254F2EE31736007B24FA /* RNutqUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,12 +271,12 @@
 /* Begin PBXTargetDependency section */
 		B5BB25482EE31736007B24FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B5BB25382EE31735007B24FA /* Nutq */;
+			target = B5BB25382EE31735007B24FA /* RNutq */;
 			targetProxy = B5BB25472EE31736007B24FA /* PBXContainerItemProxy */;
 		};
 		B5BB25522EE31736007B24FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B5BB25382EE31735007B24FA /* Nutq */;
+			target = B5BB25382EE31735007B24FA /* RNutq */;
 			targetProxy = B5BB25512EE31736007B24FA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -414,6 +414,10 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Nutq/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NUTQ;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "plz let me";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "can i hear you";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -424,7 +428,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = rahaf.Nutq;
+				PRODUCT_BUNDLE_IDENTIFIER = alhammadi.Nutq2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -447,6 +451,10 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Nutq/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NUTQ;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "plz let me";
+				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "can i hear you";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -457,7 +465,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = rahaf.Nutq;
+				PRODUCT_BUNDLE_IDENTIFIER = alhammadi.Nutq2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -487,7 +495,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nutq.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nutq";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNutq.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RNutq";
 			};
 			name = Debug;
 		};
@@ -509,7 +517,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Nutq.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Nutq";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNutq.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RNutq";
 			};
 			name = Release;
 		};
@@ -556,7 +564,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5BB25342EE31735007B24FA /* Build configuration list for PBXProject "Nutq" */ = {
+		B5BB25342EE31735007B24FA /* Build configuration list for PBXProject "RNutq" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BB25582EE31736007B24FA /* Debug */,
@@ -565,7 +573,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5BB255A2EE31736007B24FA /* Build configuration list for PBXNativeTarget "Nutq" */ = {
+		B5BB255A2EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutq" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BB255B2EE31736007B24FA /* Debug */,
@@ -574,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5BB255D2EE31736007B24FA /* Build configuration list for PBXNativeTarget "NutqTests" */ = {
+		B5BB255D2EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutqTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BB255E2EE31736007B24FA /* Debug */,
@@ -583,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5BB25602EE31736007B24FA /* Build configuration list for PBXNativeTarget "NutqUITests" */ = {
+		B5BB25602EE31736007B24FA /* Build configuration list for PBXNativeTarget "RNutqUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5BB25612EE31736007B24FA /* Debug */,

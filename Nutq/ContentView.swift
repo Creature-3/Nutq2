@@ -2,12 +2,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        NavigationStack {
-            Library()
-        }
+        SpeechSandboxView()
     }
-}
-
-#Preview {
-    ContentView()
 }
